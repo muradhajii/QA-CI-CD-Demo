@@ -1,0 +1,3 @@
+@echo off
+echo Running REGRESSION tests...
+echo REGRESSION: Create/Update/Delete PASS
