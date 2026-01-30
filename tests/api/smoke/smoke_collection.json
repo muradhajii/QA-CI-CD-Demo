@@ -29,7 +29,7 @@
               "",
               "pm.test('Response has data.id = 2', function () {",
               "    var json = pm.response.json();",
-              "    pm.expect(json.data.id).to.eql(2);",
+              "    pm.expect(json.data.id).to.eql(3);",
               "});"
             ]
           }
